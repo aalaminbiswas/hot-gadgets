@@ -1,0 +1,21 @@
+.btn .btn-dark{
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    
+}
+.container{
+    margin-top: 50px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+
+      .btn{
+        margin: center;
+        display:block;
+      }
+      .cat1{
+          margin-top: 10px;
+          height: min-content;
+      }
